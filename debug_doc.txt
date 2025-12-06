@@ -1,0 +1,41 @@
+--- Sanction Letter ---
+```markdown
+[HDFC Bank Letterhead - Imaginary Placeholder]
+
+**Date: December 06, 2025**
+
+**John Doe**
+[John Doe's Address - To be obtained]
+
+**Subject: Sanction of Loan Application**
+
+Dear Mr. Doe,
+
+We are pleased to inform you that your loan application for a personal loan has been sanctioned by HDFC Bank. We congratulate you on this approval!
+
+Following are the key terms and conditions of your loan:
+
+*   **Loan Amount:** INR 200,000.00 (Rupees Two Lakhs Only)
+*   **Interest Rate:** 14.0% per annum
+*   **Loan Tenure:** 2 years (24 months)
+
+Please note that the disbursement of the loan amount is subject to the completion of necessary documentation and verification procedures as per the bank's policy. Our loan officer will be in touch with you shortly to guide you through the remaining formalities, including the execution of the loan agreement and submission of required documents.
+
+We encourage you to carefully read and understand the loan agreement before signing it. This agreement outlines all the terms and conditions governing your loan, including repayment schedule, applicable charges, and default clauses.
+
+We at HDFC Bank value your relationship with us and look forward to serving you. Please do not hesitate to contact us should you have any questions or require further assistance.
+
+Sincerely,
+
+[Signature]
+
+**Amit Kumar**
+Senior Loan Officer
+
+---
+
+**HDFC Bank**
+HDFC Bank House, Senapati Bapat Marg, Lower Parel, Mumbai - 400013
+Phone: 1800 202 6161 | Email: loansupport@hdfcbank.com
+```
+

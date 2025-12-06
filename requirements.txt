@@ -1,0 +1,16 @@
+streamlit
+pydantic
+pandas
+xgboost
+scikit-learn
+jinja2
+fpdf
+openai
+python-dotenv
+pytest
+langchain
+langgraph
+langchain-google-genai
+python-dotenv
+fastmcp
+fpdf
